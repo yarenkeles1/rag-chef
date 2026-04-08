@@ -160,3 +160,10 @@ Build the vector database by processing recipe documents:
 ```bash
 python data_ingestion.py
    ```
+
+### 6. Run the Application
+
+```bash
+python app.py
+   ```
+   ```
