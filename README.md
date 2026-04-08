@@ -166,4 +166,3 @@ python data_ingestion.py
 ```bash
 python app.py
    ```
-   ```
